@@ -21,7 +21,7 @@ Shark Shack is a project website. It is a website created for a factitious seafo
 <br />
 <p align="center">
   <a href="https://github.com/twmiles/sharkshack-master/assets/img">
-    <img src="finalLogo.png" alt="Logo" width="200" height="80">
+    <img src="finalLogo.png" alt="Logo" width="300" height="90">
   </a>
 
   <h3 align="center">Shark Shack</h3>
